@@ -2,7 +2,7 @@
 Supporting Code for my ECE50024 PDF submission
 
 pickle files containing my curated testing and training images and ID's are provided 
-please be sure that these are in the file path so my script can import the necessary data
+please be sure that ALL 4 FILES are in the file path so my script can import the necessary data
 
 I avoided using libraries like GPyOpt and BayesOpt in order to have a deeper understanding of the code
 However, this introduces some instability
